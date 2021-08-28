@@ -1,0 +1,418 @@
+PassengerId,Name,Prediction,Actual,Accuracy
+892,"Kelly, Mr. James",Perished,Perished,Correct
+893,"Wilkes, Mrs. James (Ellen Needs)",Survived,Survived,Correct
+894,"Myles, Mr. Thomas Francis",Perished,Perished,Correct
+895,"Wirz, Mr. Albert",Perished,Perished,Correct
+896,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",Survived,Survived,Correct
+897,"Svensson, Mr. Johan Cervin",Perished,Perished,Correct
+898,"Connolly, Miss. Kate",Survived,Survived,Correct
+899,"Caldwell, Mr. Albert Francis",Perished,Perished,Correct
+900,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",Survived,Survived,Correct
+901,"Davies, Mr. John Samuel",Perished,Perished,Correct
+902,"Ilieff, Mr. Ylio",Perished,Perished,Correct
+903,"Jones, Mr. Charles Cresson",Perished,Perished,Correct
+904,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",Survived,Survived,Correct
+905,"Howard, Mr. Benjamin",Perished,Perished,Correct
+906,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",Survived,Survived,Correct
+907,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",Survived,Survived,Correct
+908,"Keane, Mr. Daniel",Perished,Perished,Correct
+909,"Assaf, Mr. Gerios",Perished,Perished,Correct
+910,"Ilmakangas, Miss. Ida Livija",Survived,Survived,Correct
+911,"Assaf Khalil, Mrs. Mariana (Miriam"")""",Survived,Survived,Correct
+912,"Rothschild, Mr. Martin",Perished,Perished,Correct
+913,"Olsen, Master. Artur Karl",Survived,Perished,Incorrect
+914,"Flegenheim, Mrs. Alfred (Antoinette)",Survived,Survived,Correct
+915,"Williams, Mr. Richard Norris II",Perished,Perished,Correct
+916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",Survived,Survived,Correct
+917,"Robins, Mr. Alexander A",Perished,Perished,Correct
+918,"Ostby, Miss. Helene Ragnhild",Survived,Survived,Correct
+919,"Daher, Mr. Shedid",Perished,Perished,Correct
+920,"Brady, Mr. John Bertram",Perished,Perished,Correct
+921,"Samaan, Mr. Elias",Perished,Perished,Correct
+922,"Louch, Mr. Charles Alexander",Perished,Perished,Correct
+923,"Jefferys, Mr. Clifford Thomas",Perished,Perished,Correct
+924,"Dean, Mrs. Bertram (Eva Georgetta Light)",Survived,Survived,Correct
+925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",Survived,Survived,Correct
+926,"Mock, Mr. Philipp Edmund",Perished,Perished,Correct
+927,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",Perished,Perished,Correct
+928,"Roth, Miss. Sarah A",Survived,Survived,Correct
+929,"Cacic, Miss. Manda",Survived,Survived,Correct
+930,"Sap, Mr. Julius",Perished,Perished,Correct
+931,"Hee, Mr. Ling",Perished,Perished,Correct
+932,"Karun, Mr. Franz",Perished,Perished,Correct
+933,"Franklin, Mr. Thomas Parham",Perished,Perished,Correct
+934,"Goldsmith, Mr. Nathan",Perished,Perished,Correct
+935,"Corbett, Mrs. Walter H (Irene Colvin)",Survived,Survived,Correct
+936,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",Survived,Survived,Correct
+937,"Peltomaki, Mr. Nikolai Johannes",Perished,Perished,Correct
+938,"Chevre, Mr. Paul Romaine",Perished,Perished,Correct
+939,"Shaughnessy, Mr. Patrick",Perished,Perished,Correct
+940,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",Survived,Survived,Correct
+941,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",Survived,Survived,Correct
+942,"Smith, Mr. Lucien Philip",Perished,Perished,Correct
+943,"Pulbaum, Mr. Franz",Perished,Perished,Correct
+944,"Hocking, Miss. Ellen Nellie""""",Survived,Survived,Correct
+945,"Fortune, Miss. Ethel Flora",Survived,Survived,Correct
+946,"Mangiavacchi, Mr. Serafino Emilio",Perished,Perished,Correct
+947,"Rice, Master. Albert",Perished,Perished,Correct
+948,"Cor, Mr. Bartol",Perished,Perished,Correct
+949,"Abelseth, Mr. Olaus Jorgensen",Perished,Perished,Correct
+950,"Davison, Mr. Thomas Henry",Perished,Perished,Correct
+951,"Chaudanson, Miss. Victorine",Survived,Survived,Correct
+952,"Dika, Mr. Mirko",Perished,Perished,Correct
+953,"McCrae, Mr. Arthur Gordon",Perished,Perished,Correct
+954,"Bjorklund, Mr. Ernst Herbert",Perished,Perished,Correct
+955,"Bradley, Miss. Bridget Delia",Survived,Survived,Correct
+956,"Ryerson, Master. John Borie",Survived,Perished,Incorrect
+957,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",Survived,Survived,Correct
+958,"Burns, Miss. Mary Delia",Survived,Survived,Correct
+959,"Moore, Mr. Clarence Bloomfield",Perished,Perished,Correct
+960,"Tucker, Mr. Gilbert Milligan Jr",Perished,Perished,Correct
+961,"Fortune, Mrs. Mark (Mary McDougald)",Survived,Survived,Correct
+962,"Mulvihill, Miss. Bertha E",Survived,Survived,Correct
+963,"Minkoff, Mr. Lazar",Perished,Perished,Correct
+964,"Nieminen, Miss. Manta Josefina",Survived,Survived,Correct
+965,"Ovies y Rodriguez, Mr. Servando",Perished,Perished,Correct
+966,"Geiger, Miss. Amalie",Survived,Survived,Correct
+967,"Keeping, Mr. Edwin",Survived,Perished,Incorrect
+968,"Miles, Mr. Frank",Perished,Perished,Correct
+969,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",Survived,Survived,Correct
+970,"Aldworth, Mr. Charles Augustus",Perished,Perished,Correct
+971,"Doyle, Miss. Elizabeth",Survived,Survived,Correct
+972,"Boulos, Master. Akar",Survived,Perished,Incorrect
+973,"Straus, Mr. Isidor",Perished,Perished,Correct
+974,"Case, Mr. Howard Brown",Perished,Perished,Correct
+975,"Demetri, Mr. Marinko",Perished,Perished,Correct
+976,"Lamb, Mr. John Joseph",Perished,Perished,Correct
+977,"Khalil, Mr. Betros",Perished,Perished,Correct
+978,"Barry, Miss. Julia",Survived,Survived,Correct
+979,"Badman, Miss. Emily Louisa",Survived,Survived,Correct
+980,"O'Donoghue, Ms. Bridget",Survived,Survived,Correct
+981,"Wells, Master. Ralph Lester",Survived,Perished,Incorrect
+982,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",Survived,Survived,Correct
+983,"Pedersen, Mr. Olaf",Perished,Perished,Correct
+984,"Davidson, Mrs. Thornton (Orian Hays)",Survived,Survived,Correct
+985,"Guest, Mr. Robert",Perished,Perished,Correct
+986,"Birnbaum, Mr. Jakob",Perished,Perished,Correct
+987,"Tenglin, Mr. Gunnar Isidor",Perished,Perished,Correct
+988,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",Survived,Survived,Correct
+989,"Makinen, Mr. Kalle Edvard",Perished,Perished,Correct
+990,"Braf, Miss. Elin Ester Maria",Survived,Survived,Correct
+991,"Nancarrow, Mr. William Henry",Perished,Perished,Correct
+992,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",Survived,Survived,Correct
+993,"Weisz, Mr. Leopold",Perished,Perished,Correct
+994,"Foley, Mr. William",Perished,Perished,Correct
+995,"Johansson Palmquist, Mr. Oskar Leander",Perished,Perished,Correct
+996,"Thomas, Mrs. Alexander (Thamine Thelma"")""",Survived,Survived,Correct
+997,"Holthen, Mr. Johan Martin",Perished,Perished,Correct
+998,"Buckley, Mr. Daniel",Perished,Perished,Correct
+999,"Ryan, Mr. Edward",Perished,Perished,Correct
+1000,"Willer, Mr. Aaron (Abi Weller"")""",Perished,Perished,Correct
+1001,"Swane, Mr. George",Perished,Perished,Correct
+1002,"Stanton, Mr. Samuel Ward",Perished,Perished,Correct
+1003,"Shine, Miss. Ellen Natalia",Survived,Survived,Correct
+1004,"Evans, Miss. Edith Corse",Survived,Survived,Correct
+1005,"Buckley, Miss. Katherine",Survived,Survived,Correct
+1006,"Straus, Mrs. Isidor (Rosalie Ida Blun)",Survived,Survived,Correct
+1007,"Chronopoulos, Mr. Demetrios",Perished,Perished,Correct
+1008,"Thomas, Mr. John",Perished,Perished,Correct
+1009,"Sandstrom, Miss. Beatrice Irene",Perished,Survived,Incorrect
+1010,"Beattie, Mr. Thomson",Perished,Perished,Correct
+1011,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",Survived,Survived,Correct
+1012,"Watt, Miss. Bertha J",Survived,Survived,Correct
+1013,"Kiernan, Mr. John",Perished,Perished,Correct
+1014,"Schabert, Mrs. Paul (Emma Mock)",Survived,Survived,Correct
+1015,"Carver, Mr. Alfred John",Perished,Perished,Correct
+1016,"Kennedy, Mr. John",Perished,Perished,Correct
+1017,"Cribb, Miss. Laura Alice",Survived,Survived,Correct
+1018,"Brobeck, Mr. Karl Rudolf",Perished,Perished,Correct
+1019,"McCoy, Miss. Alicia",Survived,Survived,Correct
+1020,"Bowenur, Mr. Solomon",Perished,Perished,Correct
+1021,"Petersen, Mr. Marius",Perished,Perished,Correct
+1022,"Spinner, Mr. Henry John",Perished,Perished,Correct
+1023,"Gracie, Col. Archibald IV",Survived,Perished,Incorrect
+1024,"Lefebre, Mrs. Frank (Frances)",Survived,Survived,Correct
+1025,"Thomas, Mr. Charles P",Perished,Perished,Correct
+1026,"Dintcheff, Mr. Valtcho",Perished,Perished,Correct
+1027,"Carlsson, Mr. Carl Robert",Perished,Perished,Correct
+1028,"Zakarian, Mr. Mapriededer",Perished,Perished,Correct
+1029,"Schmidt, Mr. August",Perished,Perished,Correct
+1030,"Drapkin, Miss. Jennie",Survived,Survived,Correct
+1031,"Goodwin, Mr. Charles Frederick",Perished,Perished,Correct
+1032,"Goodwin, Miss. Jessie Allis",Perished,Survived,Incorrect
+1033,"Daniels, Miss. Sarah",Survived,Survived,Correct
+1034,"Ryerson, Mr. Arthur Larned",Perished,Perished,Correct
+1035,"Beauchamp, Mr. Henry James",Perished,Perished,Correct
+1036,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",Perished,Perished,Correct
+1037,"Vander Planke, Mr. Julius",Perished,Perished,Correct
+1038,"Hilliard, Mr. Herbert Henry",Perished,Perished,Correct
+1039,"Davies, Mr. Evan",Perished,Perished,Correct
+1040,"Crafton, Mr. John Bertram",Perished,Perished,Correct
+1041,"Lahtinen, Rev. William",Perished,Perished,Correct
+1042,"Earnshaw, Mrs. Boulton (Olive Potter)",Survived,Survived,Correct
+1043,"Matinoff, Mr. Nicola",Perished,Perished,Correct
+1045,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",Survived,Survived,Correct
+1046,"Asplund, Master. Filip Oscar",Perished,Perished,Correct
+1047,"Duquemin, Mr. Joseph",Perished,Perished,Correct
+1048,"Bird, Miss. Ellen",Survived,Survived,Correct
+1049,"Lundin, Miss. Olga Elida",Survived,Survived,Correct
+1050,"Borebank, Mr. John James",Perished,Perished,Correct
+1051,"Peacock, Mrs. Benjamin (Edith Nile)",Survived,Survived,Correct
+1052,"Smyth, Miss. Julia",Survived,Survived,Correct
+1053,"Touma, Master. Georges Youssef",Survived,Perished,Incorrect
+1054,"Wright, Miss. Marion",Survived,Survived,Correct
+1055,"Pearce, Mr. Ernest",Perished,Perished,Correct
+1056,"Peruschitz, Rev. Joseph Maria",Perished,Perished,Correct
+1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",Survived,Survived,Correct
+1058,"Brandeis, Mr. Emil",Perished,Perished,Correct
+1059,"Ford, Mr. Edward Watson",Perished,Perished,Correct
+1060,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",Survived,Survived,Correct
+1061,"Hellstrom, Miss. Hilda Maria",Survived,Survived,Correct
+1062,"Lithman, Mr. Simon",Perished,Perished,Correct
+1063,"Zakarian, Mr. Ortin",Perished,Perished,Correct
+1064,"Dyker, Mr. Adolf Fredrik",Perished,Perished,Correct
+1065,"Torfa, Mr. Assad",Perished,Perished,Correct
+1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",Perished,Perished,Correct
+1067,"Brown, Miss. Edith Eileen",Survived,Survived,Correct
+1068,"Sincock, Miss. Maude",Survived,Survived,Correct
+1069,"Stengel, Mr. Charles Emil Henry",Perished,Perished,Correct
+1070,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",Survived,Survived,Correct
+1071,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",Survived,Survived,Correct
+1072,"McCrie, Mr. James Matthew",Perished,Perished,Correct
+1073,"Compton, Mr. Alexander Taylor Jr",Perished,Perished,Correct
+1074,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",Survived,Survived,Correct
+1075,"Lane, Mr. Patrick",Perished,Perished,Correct
+1076,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",Survived,Survived,Correct
+1077,"Maybery, Mr. Frank Hubert",Perished,Perished,Correct
+1078,"Phillips, Miss. Alice Frances Louisa",Survived,Survived,Correct
+1079,"Davies, Mr. Joseph",Perished,Perished,Correct
+1080,"Sage, Miss. Ada",Perished,Survived,Incorrect
+1081,"Veal, Mr. James",Perished,Perished,Correct
+1082,"Angle, Mr. William A",Perished,Perished,Correct
+1083,"Salomon, Mr. Abraham L",Perished,Perished,Correct
+1084,"van Billiard, Master. Walter John",Survived,Perished,Incorrect
+1085,"Lingane, Mr. John",Perished,Perished,Correct
+1086,"Drew, Master. Marshall Brines",Survived,Perished,Incorrect
+1087,"Karlsson, Mr. Julius Konrad Eugen",Perished,Perished,Correct
+1088,"Spedden, Master. Robert Douglas",Survived,Perished,Incorrect
+1089,"Nilsson, Miss. Berta Olivia",Survived,Survived,Correct
+1090,"Baimbrigge, Mr. Charles Robert",Perished,Perished,Correct
+1091,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",Survived,Survived,Correct
+1092,"Murphy, Miss. Nora",Survived,Survived,Correct
+1093,"Danbom, Master. Gilbert Sigvard Emanuel",Survived,Perished,Incorrect
+1094,"Astor, Col. John Jacob",Survived,Perished,Incorrect
+1095,"Quick, Miss. Winifred Vera",Survived,Survived,Correct
+1096,"Andrew, Mr. Frank Thomas",Perished,Perished,Correct
+1097,"Omont, Mr. Alfred Fernand",Perished,Perished,Correct
+1098,"McGowan, Miss. Katherine",Survived,Survived,Correct
+1099,"Collett, Mr. Sidney C Stuart",Perished,Perished,Correct
+1100,"Rosenbaum, Miss. Edith Louise",Survived,Survived,Correct
+1101,"Delalic, Mr. Redjo",Perished,Perished,Correct
+1102,"Andersen, Mr. Albert Karvin",Perished,Perished,Correct
+1103,"Finoli, Mr. Luigi",Perished,Perished,Correct
+1104,"Deacon, Mr. Percy William",Perished,Perished,Correct
+1105,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",Survived,Survived,Correct
+1106,"Andersson, Miss. Ida Augusta Margareta",Perished,Survived,Incorrect
+1107,"Head, Mr. Christopher",Perished,Perished,Correct
+1108,"Mahon, Miss. Bridget Delia",Survived,Survived,Correct
+1109,"Wick, Mr. George Dennick",Perished,Perished,Correct
+1110,"Widener, Mrs. George Dunton (Eleanor Elkins)",Survived,Survived,Correct
+1111,"Thomson, Mr. Alexander Morrison",Perished,Perished,Correct
+1112,"Duran y More, Miss. Florentina",Survived,Survived,Correct
+1113,"Reynolds, Mr. Harold J",Perished,Perished,Correct
+1114,"Cook, Mrs. (Selena Rogers)",Survived,Survived,Correct
+1115,"Karlsson, Mr. Einar Gervasius",Perished,Perished,Correct
+1116,"Candee, Mrs. Edward (Helen Churchill Hungerford)",Survived,Survived,Correct
+1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",Survived,Survived,Correct
+1118,"Asplund, Mr. Johan Charles",Perished,Perished,Correct
+1119,"McNeill, Miss. Bridget",Survived,Survived,Correct
+1120,"Everett, Mr. Thomas James",Perished,Perished,Correct
+1121,"Hocking, Mr. Samuel James Metcalfe",Perished,Perished,Correct
+1122,"Sweet, Mr. George Frederick",Perished,Perished,Correct
+1123,"Willard, Miss. Constance",Survived,Survived,Correct
+1124,"Wiklund, Mr. Karl Johan",Perished,Perished,Correct
+1125,"Linehan, Mr. Michael",Perished,Perished,Correct
+1126,"Cumings, Mr. John Bradley",Perished,Perished,Correct
+1127,"Vendel, Mr. Olof Edvin",Perished,Perished,Correct
+1128,"Warren, Mr. Frank Manley",Perished,Perished,Correct
+1129,"Baccos, Mr. Raffull",Perished,Perished,Correct
+1130,"Hiltunen, Miss. Marta",Survived,Survived,Correct
+1131,"Douglas, Mrs. Walter Donald (Mahala Dutton)",Survived,Survived,Correct
+1132,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",Survived,Survived,Correct
+1133,"Christy, Mrs. (Alice Frances)",Survived,Survived,Correct
+1134,"Spedden, Mr. Frederic Oakley",Perished,Perished,Correct
+1135,"Hyman, Mr. Abraham",Perished,Perished,Correct
+1136,"Johnston, Master. William Arthur Willie""""",Perished,Perished,Correct
+1137,"Kenyon, Mr. Frederick R",Perished,Perished,Correct
+1138,"Karnes, Mrs. J Frank (Claire Bennett)",Survived,Survived,Correct
+1139,"Drew, Mr. James Vivian",Perished,Perished,Correct
+1140,"Hold, Mrs. Stephen (Annie Margaret Hill)",Survived,Survived,Correct
+1141,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",Survived,Survived,Correct
+1142,"West, Miss. Barbara J",Survived,Survived,Correct
+1143,"Abrahamsson, Mr. Abraham August Johannes",Perished,Perished,Correct
+1144,"Clark, Mr. Walter Miller",Perished,Perished,Correct
+1145,"Salander, Mr. Karl Johan",Perished,Perished,Correct
+1146,"Wenzel, Mr. Linhart",Perished,Perished,Correct
+1147,"MacKay, Mr. George William",Perished,Perished,Correct
+1148,"Mahon, Mr. John",Perished,Perished,Correct
+1149,"Niklasson, Mr. Samuel",Perished,Perished,Correct
+1150,"Bentham, Miss. Lilian W",Survived,Survived,Correct
+1151,"Midtsjo, Mr. Karl Albert",Perished,Perished,Correct
+1152,"de Messemaeker, Mr. Guillaume Joseph",Perished,Perished,Correct
+1153,"Nilsson, Mr. August Ferdinand",Perished,Perished,Correct
+1154,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",Survived,Survived,Correct
+1155,"Klasen, Miss. Gertrud Emilia",Perished,Survived,Incorrect
+1156,"Portaluppi, Mr. Emilio Ilario Giuseppe",Perished,Perished,Correct
+1157,"Lyntakoff, Mr. Stanko",Perished,Perished,Correct
+1158,"Chisholm, Mr. Roderick Robert Crispin",Perished,Perished,Correct
+1159,"Warren, Mr. Charles William",Perished,Perished,Correct
+1160,"Howard, Miss. May Elizabeth",Survived,Survived,Correct
+1161,"Pokrnic, Mr. Mate",Perished,Perished,Correct
+1162,"McCaffry, Mr. Thomas Francis",Perished,Perished,Correct
+1163,"Fox, Mr. Patrick",Perished,Perished,Correct
+1164,"Clark, Mrs. Walter Miller (Virginia McDowell)",Survived,Survived,Correct
+1165,"Lennon, Miss. Mary",Survived,Survived,Correct
+1166,"Saade, Mr. Jean Nassr",Perished,Perished,Correct
+1167,"Bryhl, Miss. Dagmar Jenny Ingeborg ",Survived,Survived,Correct
+1168,"Parker, Mr. Clifford Richard",Perished,Perished,Correct
+1169,"Faunthorpe, Mr. Harry",Perished,Perished,Correct
+1170,"Ware, Mr. John James",Perished,Perished,Correct
+1171,"Oxenham, Mr. Percy Thomas",Perished,Perished,Correct
+1172,"Oreskovic, Miss. Jelka",Survived,Survived,Correct
+1173,"Peacock, Master. Alfred Edward",Survived,Perished,Incorrect
+1174,"Fleming, Miss. Honora",Survived,Survived,Correct
+1175,"Touma, Miss. Maria Youssef",Survived,Survived,Correct
+1176,"Rosblom, Miss. Salli Helena",Perished,Survived,Incorrect
+1177,"Dennis, Mr. William",Perished,Perished,Correct
+1178,"Franklin, Mr. Charles (Charles Fardon)",Perished,Perished,Correct
+1179,"Snyder, Mr. John Pillsbury",Perished,Perished,Correct
+1180,"Mardirosian, Mr. Sarkis",Perished,Perished,Correct
+1181,"Ford, Mr. Arthur",Perished,Perished,Correct
+1182,"Rheims, Mr. George Alexander Lucien",Perished,Perished,Correct
+1183,"Daly, Miss. Margaret Marcella Maggie""""",Survived,Survived,Correct
+1184,"Nasr, Mr. Mustafa",Perished,Perished,Correct
+1185,"Dodge, Dr. Washington",Perished,Perished,Correct
+1186,"Wittevrongel, Mr. Camille",Perished,Perished,Correct
+1187,"Angheloff, Mr. Minko",Perished,Perished,Correct
+1188,"Laroche, Miss. Louise",Survived,Survived,Correct
+1189,"Samaan, Mr. Hanna",Perished,Perished,Correct
+1190,"Loring, Mr. Joseph Holland",Perished,Perished,Correct
+1191,"Johansson, Mr. Nils",Perished,Perished,Correct
+1192,"Olsson, Mr. Oscar Wilhelm",Perished,Perished,Correct
+1193,"Malachard, Mr. Noel",Perished,Perished,Correct
+1194,"Phillips, Mr. Escott Robert",Perished,Perished,Correct
+1195,"Pokrnic, Mr. Tome",Perished,Perished,Correct
+1196,"McCarthy, Miss. Catherine Katie""""",Survived,Survived,Correct
+1197,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",Survived,Survived,Correct
+1198,"Allison, Mr. Hudson Joshua Creighton",Perished,Perished,Correct
+1199,"Aks, Master. Philip Frank",Survived,Perished,Incorrect
+1200,"Hays, Mr. Charles Melville",Perished,Perished,Correct
+1201,"Hansen, Mrs. Claus Peter (Jennie L Howard)",Survived,Survived,Correct
+1202,"Cacic, Mr. Jego Grga",Perished,Perished,Correct
+1203,"Vartanian, Mr. David",Perished,Perished,Correct
+1204,"Sadowitz, Mr. Harry",Perished,Perished,Correct
+1205,"Carr, Miss. Jeannie",Survived,Survived,Correct
+1206,"White, Mrs. John Stuart (Ella Holmes)",Survived,Survived,Correct
+1207,"Hagardon, Miss. Kate",Survived,Survived,Correct
+1208,"Spencer, Mr. William Augustus",Perished,Perished,Correct
+1209,"Rogers, Mr. Reginald Harry",Perished,Perished,Correct
+1210,"Jonsson, Mr. Nils Hilding",Perished,Perished,Correct
+1211,"Jefferys, Mr. Ernest Wilfred",Perished,Perished,Correct
+1212,"Andersson, Mr. Johan Samuel",Perished,Perished,Correct
+1213,"Krekorian, Mr. Neshan",Perished,Perished,Correct
+1214,"Nesson, Mr. Israel",Perished,Perished,Correct
+1215,"Rowe, Mr. Alfred G",Perished,Perished,Correct
+1216,"Kreuchen, Miss. Emilie",Survived,Survived,Correct
+1217,"Assam, Mr. Ali",Perished,Perished,Correct
+1218,"Becker, Miss. Ruth Elizabeth",Survived,Survived,Correct
+1219,"Rosenshine, Mr. George (Mr George Thorne"")""",Survived,Perished,Incorrect
+1220,"Clarke, Mr. Charles Valentine",Perished,Perished,Correct
+1221,"Enander, Mr. Ingvar",Perished,Perished,Correct
+1222,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",Survived,Survived,Correct
+1223,"Dulles, Mr. William Crothers",Perished,Perished,Correct
+1224,"Thomas, Mr. Tannous",Perished,Perished,Correct
+1225,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",Survived,Survived,Correct
+1226,"Cor, Mr. Ivan",Perished,Perished,Correct
+1227,"Maguire, Mr. John Edward",Perished,Perished,Correct
+1228,"de Brito, Mr. Jose Joaquim",Perished,Perished,Correct
+1229,"Elias, Mr. Joseph",Perished,Perished,Correct
+1230,"Denbury, Mr. Herbert",Perished,Perished,Correct
+1231,"Betros, Master. Seman",Survived,Perished,Incorrect
+1232,"Fillbrook, Mr. Joseph Charles",Perished,Perished,Correct
+1233,"Lundstrom, Mr. Thure Edvin",Perished,Perished,Correct
+1234,"Sage, Mr. John George",Perished,Perished,Correct
+1235,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",Survived,Survived,Correct
+1236,"van Billiard, Master. James William",Survived,Perished,Incorrect
+1237,"Abelseth, Miss. Karen Marie",Survived,Survived,Correct
+1238,"Botsford, Mr. William Hull",Perished,Perished,Correct
+1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",Survived,Survived,Correct
+1240,"Giles, Mr. Ralph",Perished,Perished,Correct
+1241,"Walcroft, Miss. Nellie",Survived,Survived,Correct
+1242,"Greenfield, Mrs. Leo David (Blanche Strouse)",Survived,Survived,Correct
+1243,"Stokes, Mr. Philip Joseph",Perished,Perished,Correct
+1244,"Dibden, Mr. William",Perished,Perished,Correct
+1245,"Herman, Mr. Samuel",Perished,Perished,Correct
+1246,"Dean, Miss. Elizabeth Gladys Millvina""""",Perished,Survived,Incorrect
+1247,"Julian, Mr. Henry Forbes",Perished,Perished,Correct
+1248,"Brown, Mrs. John Murray (Caroline Lane Lamson)",Survived,Survived,Correct
+1249,"Lockyer, Mr. Edward",Perished,Perished,Correct
+1250,"O'Keefe, Mr. Patrick",Perished,Perished,Correct
+1251,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",Survived,Survived,Correct
+1252,"Sage, Master. William Henry",Perished,Perished,Correct
+1253,"Mallet, Mrs. Albert (Antoinette Magnin)",Survived,Survived,Correct
+1254,"Ware, Mrs. John James (Florence Louise Long)",Survived,Survived,Correct
+1255,"Strilic, Mr. Ivan",Perished,Perished,Correct
+1256,"Harder, Mrs. George Achilles (Dorothy Annan)",Survived,Survived,Correct
+1257,"Sage, Mrs. John (Annie Bullen)",Perished,Survived,Incorrect
+1258,"Caram, Mr. Joseph",Perished,Perished,Correct
+1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",Survived,Survived,Correct
+1260,"Gibson, Mrs. Leonard (Pauline C Boeson)",Survived,Survived,Correct
+1261,"Pallas y Castello, Mr. Emilio",Perished,Perished,Correct
+1262,"Giles, Mr. Edgar",Perished,Perished,Correct
+1263,"Wilson, Miss. Helen Alice",Survived,Survived,Correct
+1264,"Ismay, Mr. Joseph Bruce",Perished,Perished,Correct
+1265,"Harbeck, Mr. William H",Perished,Perished,Correct
+1266,"Dodge, Mrs. Washington (Ruth Vidaver)",Survived,Survived,Correct
+1267,"Bowen, Miss. Grace Scott",Survived,Survived,Correct
+1268,"Kink, Miss. Maria",Perished,Survived,Incorrect
+1269,"Cotterill, Mr. Henry Harry""""",Perished,Perished,Correct
+1270,"Hipkins, Mr. William Edward",Perished,Perished,Correct
+1271,"Asplund, Master. Carl Edgar",Perished,Perished,Correct
+1272,"O'Connor, Mr. Patrick",Perished,Perished,Correct
+1273,"Foley, Mr. Joseph",Perished,Perished,Correct
+1274,"Risien, Mrs. Samuel (Emma)",Survived,Survived,Correct
+1275,"McNamee, Mrs. Neal (Eileen O'Leary)",Survived,Survived,Correct
+1276,"Wheeler, Mr. Edwin Frederick""""",Perished,Perished,Correct
+1277,"Herman, Miss. Kate",Survived,Survived,Correct
+1278,"Aronsson, Mr. Ernst Axel Algot",Perished,Perished,Correct
+1279,"Ashby, Mr. John",Perished,Perished,Correct
+1280,"Canavan, Mr. Patrick",Perished,Perished,Correct
+1281,"Palsson, Master. Paul Folke",Perished,Perished,Correct
+1282,"Payne, Mr. Vivian Ponsonby",Perished,Perished,Correct
+1283,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",Survived,Survived,Correct
+1284,"Abbott, Master. Eugene Joseph",Survived,Perished,Incorrect
+1285,"Gilbert, Mr. William",Perished,Perished,Correct
+1286,"Kink-Heilmann, Mr. Anton",Perished,Perished,Correct
+1287,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",Survived,Survived,Correct
+1288,"Colbert, Mr. Patrick",Perished,Perished,Correct
+1289,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",Survived,Survived,Correct
+1290,"Larsson-Rondberg, Mr. Edvard A",Perished,Perished,Correct
+1291,"Conlon, Mr. Thomas Henry",Perished,Perished,Correct
+1292,"Bonnell, Miss. Caroline",Survived,Survived,Correct
+1293,"Gale, Mr. Harry",Perished,Perished,Correct
+1294,"Gibson, Miss. Dorothy Winifred",Survived,Survived,Correct
+1295,"Carrau, Mr. Jose Pedro",Perished,Perished,Correct
+1296,"Frauenthal, Mr. Isaac Gerald",Perished,Perished,Correct
+1297,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",Perished,Perished,Correct
+1298,"Ware, Mr. William Jeffery",Perished,Perished,Correct
+1299,"Widener, Mr. George Dunton",Perished,Perished,Correct
+1300,"Riordan, Miss. Johanna Hannah""""",Survived,Survived,Correct
+1301,"Peacock, Miss. Treasteall",Perished,Survived,Incorrect
+1302,"Naughton, Miss. Hannah",Survived,Survived,Correct
+1303,"Minahan, Mrs. William Edward (Lillian E Thorpe)",Survived,Survived,Correct
+1304,"Henriksson, Miss. Jenny Lovisa",Survived,Survived,Correct
+1305,"Spector, Mr. Woolf",Perished,Perished,Correct
+1306,"Oliva y Ocana, Dona. Fermina",Survived,Survived,Correct
+1307,"Saether, Mr. Simon Sivertsen",Perished,Perished,Correct
+1308,"Ware, Mr. Frederick",Perished,Perished,Correct
+1309,"Peter, Master. Michael J",Survived,Perished,Incorrect

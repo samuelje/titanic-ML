@@ -1,0 +1,14 @@
+﻿Factor,Percentage
+Fare,0.33117574
+Sex_male,0.147632648
+Pclass,0.101108248
+title_Mr,0.096851946
+Sex_female,0.091992395
+SibSp,0.069930661
+Parch,0.049479415
+title_Miss,0.025702616
+title_Master,0.02440974
+title_Mrs,0.022094233
+Embarked_S,0.015520176
+Embarked_C,0.012490861
+Embarked_Q,0.01161132
